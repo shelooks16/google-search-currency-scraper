@@ -1,0 +1,15 @@
+{
+  "name": "scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node single.js",
+    "multi": "node bi-directional.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^4.0.0"
+  }
+}
